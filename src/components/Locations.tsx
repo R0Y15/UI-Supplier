@@ -18,7 +18,7 @@ const Location = () => {
                 <div className="grid gap-8 lg:grid-cols-2">
                     <div className="space-y-8 text-center md:text-left">
                         <h2 className="text-3xl font-bold">
-                            Ready to dive into <span className="text-purple-600">HABOT</span>?
+                            Ready to dive into HABOT?
                         </h2>
                         <p className="max-w-[620px] font-regular text-lg">
                             Signing up with HABOT opens the door to a world of new opportunities and potential for business growth. Gain
